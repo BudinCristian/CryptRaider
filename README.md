@@ -5,17 +5,17 @@ Crypt Raider is an Unreal Engine 5 (UE5) game where players embark on an adventu
 ## Screenshots
 
 ### 1. Main Entrance and First Puzzle
-![Main Entrance and First Puzzle](/screenshots/Puzzle.png)
+![Main Entrance and First Puzzle](/screenshots/Puzzle.PNG)
 
 As you step into the crypt, the main entrance welcomes you with an intriguing puzzle that sets the tone for the challenges ahead.
 
 ### 2. Corridor Linking Entrance to the Tomb
-![Corridor Linking Entrance to Tomb](/screenshots/Corridor.png)
+![Corridor Linking Entrance to Tomb](/screenshots/Corridor.PNG)
 
 Navigate through the atmospheric corridor that links the entrance to the heart of the tomb. The journey unfolds as you explore the mysteries within.
 
 ### 3. The Tomb with the Golden Statue
-![The Tomb with the Golden Statue](/screenshots/Statue.png)
+![The Tomb with the Golden Statue](/screenshots/Statue.PNG)
 
 Reach the inner sanctum of the tomb where the coveted golden statue is guarded. Can you decipher the final puzzles and claim your prize?
 
